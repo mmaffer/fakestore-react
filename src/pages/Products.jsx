@@ -13,6 +13,9 @@ export default function Products() {
   return (
     <div className="container">
       <h2 className="title">🛒 Catálogo de Productos</h2>
+      <p className="description">
+        Explora todos los productos disponibles con su precio, categoría e imagen.
+      </p>
 
       <div className="grid">
         {products.map((p) => (
