@@ -83,7 +83,7 @@ Sigue estos pasos para correr el proyecto en tu entorno local:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tuusuario/fakestore-react.git
+   git clone https://github.com/mmaffer/fakestore-react.git
    ```
 
 2. **Ingresar a la carpeta del proyecto:**
