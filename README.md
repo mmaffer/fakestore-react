@@ -10,7 +10,7 @@ El proyecto cuenta con una interfaz limpia, navegación fluida y una estructura 
 ## 🔗 Despliegue y Video
 
 - **Deploy en Netlify:** https://fakestore-o3.netlify.app/
-- **Video Demostrativo (YouTube):** 
+- **Video Demostrativo (YouTube):** https://youtu.be/YXiKi78fU14
 
 ---
 
